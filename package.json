@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://rafshik.github.io/test_project_jeleapps",
+    "homepage": "https://ArtemSamsonow.github.io/test_project_jeleapps",
     "scripts": {
         "lint-prettier": "prettier --write ./**/*.{ts,tsx,css,scss,md,json} --config ./.prettierrc",
         "lint-eslint": "eslint --debug --fix src/**/*.{ts,tsx}",
