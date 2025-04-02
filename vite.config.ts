@@ -10,6 +10,8 @@ const { VITE_PROD_PORT, VITE_DEV_PORT, VITE_HOST } = process.env;
 export default defineConfig({
     plugins: [react()],
 
+    base: "/test_project_jeleapps/",
+
     // Настройки production
     build: {
         rollupOptions: {
